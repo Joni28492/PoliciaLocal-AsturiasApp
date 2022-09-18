@@ -1,13 +1,13 @@
 import React from 'react'
 import { MainLayout } from '../../components/layouts'
 
-const bloqueIIIPage = () => {
-    return (
-        <MainLayout title={''} pageDescription={''} >
-            <div>bloqueIIIPage</div>
+const index = () => {
+  return (
+    <MainLayout title={''} pageDescription={''} >
+        <div>bloqueIIIPage</div>
 
-        </MainLayout>
-    )
+    </MainLayout>
+  )
 }
 
-export default bloqueIIIPage
+export default index

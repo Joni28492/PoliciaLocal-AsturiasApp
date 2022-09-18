@@ -1,11 +1,11 @@
-import { List, Box, ListItem } from '@mui/material'
-import React, { FC } from 'react'
-import { I_Infracciones } from '../../interfaces/infracciones'
+import { List, Box } from '@mui/material'
+import React from 'react'
 
 
 
 
-export const ListadoInfracciones:FC<I_Infracciones> = ({desc, graduation}:I_Infracciones) => {
+
+export const ListadoInfracciones= () => {
 
 
 

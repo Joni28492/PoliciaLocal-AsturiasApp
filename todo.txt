@@ -1,0 +1,9 @@
+sideMenu
+index
+index por tema
+
+getStaticProps por articulo
+componentes para Constitucion
+componentes para Codigo Penal etc...
+
+componente para flag formularios
